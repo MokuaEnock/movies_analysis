@@ -1,2 +1,11 @@
 movies/im.db
 im.db
+scripts_data/moviedataset.csv
+JsonData/sample.json
+JsonData/part-06.json
+JsonData/part-05.json
+JsonData/part-04.json
+JsonData/part-03.json
+JsonData/part-02.json
+JsonData/part-01.json
+mubi_db.sqlite
